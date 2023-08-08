@@ -16,6 +16,7 @@ My full name is Aditya Sahasranam. My hobbies include flying, coding, and buildi
 - Python
 - HTML/CSS
 - Next.JS
+- Javascript
 
 ## Feedback
 
