@@ -1,7 +1,6 @@
 # Hi, I'm Aditya! 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/834447482473283635)](https://discord.com/users/834447482473283635)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityasahas.tech/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sahasranam-1a6499250/)
