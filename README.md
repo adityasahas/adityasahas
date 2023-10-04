@@ -20,13 +20,7 @@
 
 <div align="center">
 
-<a href="https://github.com/adityasahas">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://mmmjb.vercel.app/api/generate?type=both&user=adityasahas&theme=dark&exclude=urmom&recursive=1&key=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" />
-      <img src="https://mmmjb.vercel.app/api/generate?type=both&user=adityasahas&theme=light&recursive=1&exclude=urmom&key=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" />
-    </picture>
-</a>
-  w michael
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasahas&show_icons=true&locale=en" alt="adityasahas" /></p>
