@@ -1,10 +1,6 @@
 <h1 align="center">hi im aditya</h1>
 <h3 align="center">learning. coding. building. deploying. flying.</h3>
 
-- currently working on [tech optimum](https://techoptimum.org)
-
-- also working on [cal commit](https://calcommit.org)
-
 - my portfolio [https://adityasahas.tech](https://adityasahas.tech)
 
 - my email **contact@adityasahas.tech**
