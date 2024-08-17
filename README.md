@@ -21,6 +21,7 @@
   - delivered custom websites for local businesses and charitable organizations
 
 - **codin** - founding engineer
+  - acquired by [exponent](https://tryexponent.com)
   - developed and debugged scalable, reliable applications
 
 - **effinity** - lead dev
@@ -30,6 +31,9 @@
 ### 💼 experience
 
 - **fable** - research intern
+  
+- **exponent** - engineering team
+
 
 ### 🛠 skills
 
