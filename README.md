@@ -1,53 +1,23 @@
-<div text="lowercase">
-<h1 align="center">aditya sahasranam</h1>
-<p align="center">full stack developer | ai enthusiast</p>
+# 👋 Hi, I'm Aditya Sahasranam
 
-<p align="center">
-  <a href="https://adityasahas.tech">portfolio</a> •
-  <a href="https://twitter.com/adityasahas">twitter</a> •
-  <a href="https://linkedin.com/in/adityasahas2025">linkedin</a>
-</p>
+## About Me
+- 🚀 High school engineer from Hanford, California
+- 🔬 Research Assistant at USC Networked Systems Lab
+- 🎮 3k hours in Rocket League
+- 💻 Currently building [vars.gg](https://vars.gg) - The future of competitive coding
 
----
+## Projects
+- **vars.gg** - The future of competitive coding (2024 - Present)
+- **Effinity** - Providing financial literacy to the masses (2024 - Present)
+- **Codin** - Supercharged developer portfolios with real-world projects (2024, Acquired)
+- **Tech Optimum** - A 501(c)(3) providing free CS education to students (2022 - 2023)
 
-### 🚀 key projects
+## Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adityasahas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityasahas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bababooeyfr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasahas)
 
-- **tech optimum** - coo
-  - scaled an interactive online learning platform to 1,000+ users
-  - co-managed 50+ volunteers and expanded curriculum to 30+ free coding courses
-
-- **launch tech** - co-founder & board member
-  - developed a project management application for helping other hs new devs getting experience
-  - delivered custom websites for local businesses and charitable organizations
-
-- **codin** - founding engineer
-  - acquired by [exponent](https://tryexponent.com)
-  - developed and debugged scalable, reliable applications
-
-- **effinity** - lead dev
-  - built a cms for lesson management
-  - coordinated with cto
-
-### 💼 experience
-
-- **fable** - research intern
-  
-- **exponent** - engineering team
-
-
-### 🛠 skills
-
-- full stack development
-- machine learning & ai
-- cloud computing
-- data analysis
-- devops
-
-### 📫 get in touch
-
-- email: contact@adityasahas.tech
-- website: [adityasahas.tech](https://adityasahas.tech)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasahas&show_icons=true&theme=dark" alt="aditya's github stats" />
-</p></div>
+## Contact
+📧 [hi@adi.gg](mailto:hi@adi.gg)  
+🔗 [adi.gg](https://adi.gg)
