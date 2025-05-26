@@ -4,7 +4,6 @@
 - 🚀 High school engineer from Hanford, California
 - 🔬 Research Assistant at USC Networked Systems Lab
 - 🎮 3k hours in Rocket League
-- 💻 Currently building [vars.gg](https://vars.gg) - The future of competitive coding
 
 ## Projects
 - **firstframe.ai** - Your AI movie creator assistant (2025 - Present)
