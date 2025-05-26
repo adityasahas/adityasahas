@@ -7,8 +7,8 @@
 - 💻 Currently building [vars.gg](https://vars.gg) - The future of competitive coding
 
 ## Projects
+- **firstframe.ai** - Your AI movie creator assistant (2025 - Present)
 - **vars.gg** - The future of competitive coding (2024 - Present)
-- **Effinity** - Providing financial literacy to the masses (2024 - Present)
 - **Codin** - Supercharged developer portfolios with real-world projects (2024, Acquired)
 - **Tech Optimum** - A 501(c)(3) providing free CS education to students (2022 - 2023)
 
