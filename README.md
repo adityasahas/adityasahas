@@ -3,7 +3,6 @@
 ## About Me
 - 🚀 High school engineer from Hanford, California
 - 🔬 Research Assistant at USC Networked Systems Lab
-- 🎮 3k hours in Rocket League
 
 ## Projects
 - **firstframe.ai** - Your AI movie creator assistant (2025 - Present)
