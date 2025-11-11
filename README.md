@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Sahasranam
 
 ## About Me
-- 🚀 High school engineer from Hanford, California
+- 🚀 Freshman at Boston University
 - 🔬 Research Assistant at USC Networked Systems Lab
 
 ## Projects
@@ -17,5 +17,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasahas)
 
 ## Contact
-📧 [hi@adi.gg](mailto:hi@adi.gg)  
 🔗 [adi.gg](https://adi.gg)
+📧 [adi@vars.gg](mailto:adi@vars.gg)  
