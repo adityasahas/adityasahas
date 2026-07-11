@@ -1,7 +1,5 @@
 # aditya sahasranam
 
-software developer · founder · boston university
-
 building tools at the intersection of craft & utility. currently engineering at [pointer](https://www.pointer.ai) and running [pebble labs](https://pebblelabs.us).
 
 ---
